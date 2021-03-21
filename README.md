@@ -1,2 +1,2 @@
-# Coursera_Couses
+# Coursera Couses
  Documentation and scripts for courses taken from Coursera
